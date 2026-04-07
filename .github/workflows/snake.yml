@@ -25,6 +25,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull --rebase origin main
           git add dist/
-          git commit -m "Atualizar cobrinha" || echo "Sem mudanças"
-          git push
+          git commit -m "Atualizar cobrinha" || echo "Sem mudanças para commitar"
+          git push origin main
