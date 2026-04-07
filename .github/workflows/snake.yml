@@ -2,8 +2,8 @@ name: Gerar cobrinha
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch:     
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,11 +12,14 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Gerar a cobrinha
         uses: Platane/snk@v3
         with:
           github_user_name: szkkj
+          token: ${{ secrets.GH_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -25,8 +28,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git fetch origin main
-          git reset --soft origin/main
+          git pull origin main --rebase
           git add dist/
-          git commit -m "Atualizar cobrinha" || echo "Sem mudanças para commitar"
+          git commit -m "Atualizar cobrinha" || echo "Sem mudanças"
           git push origin main
