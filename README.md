@@ -1,8 +1,7 @@
 <h1 align="center">console.log("Hello World!")</h1>
 
 <p align="center">
-Desenvolvedor Full Stack focado em automações e sites. <strong>Sempre aprendendo algo novo.</strong><br>
- CEO da <a href="https://raikkencore.com.br" target="_blank"><strong>Raikken Core</strong></a> | 
+Eu não diria que sou um "desenvolvedor" ainda, eu diria um estagiário. Faco faculdade de ADS pela Cruzeiro do Sul e em breve, iniciarei mais uma em Eng. de Software, já que é algo que amo. Tenho focado em automações (principalmente no whatsapp e telegram) e sites. Um dos meus maiores projetos é:a <a href="https://raikkencore.com.br" target="_blank"><strong>Raikken Core</strong></a> | 
 <a href="https://wa.me/559292678251" target="_blank"><strong>📞 Contato comercial</strong></a>
 </p>
   
