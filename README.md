@@ -1,8 +1,8 @@
-<h1 align="center">💻 Hello World!</h1>
+<h1 align="center">console.log("Hello World!")</h1>
 
 <p align="center">
-Desenvolvedor Full Stack focado em bots, automações e sites. <strong>Sempre aprendendo algo novo.</strong><br>
-🚀 CEO da <a href="https://raikkencore.com.br" target="_blank"><strong>Raikken Core</strong></a> | 
+Desenvolvedor Full Stack focado em automações e sites. <strong>Sempre aprendendo algo novo.</strong><br>
+ CEO da <a href="https://raikkencore.com.br" target="_blank"><strong>Raikken Core</strong></a> | 
 <a href="https://wa.me/559292678251" target="_blank"><strong>📞 Contato comercial</strong></a>
 </p>
   
@@ -10,7 +10,6 @@ Desenvolvedor Full Stack focado em bots, automações e sites. <strong>Sempre ap
 ### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -51,7 +50,7 @@ Desenvolvedor Full Stack focado em bots, automações e sites. <strong>Sempre ap
 | Subaru-Base | 🟢 Público / Open Source |
 | Finn Bot | 🟣 Comercial / Aluguel |
 | Raikken-Host | 🟡 Disponível para clientes |
-| Raikken-Api | 🟡 Em operação |
+| Raikken-Api | 🔴 Em hiato |
 | Bots customizados | 🟢 Consultoria ativa |
 
 > 💼 **Para negócios:** Entre em contato via WhatsApp para orçamentos de bots customizados ou planos do Finn Bot.
@@ -80,8 +79,7 @@ Desenvolvedor Full Stack focado em bots, automações e sites. <strong>Sempre ap
 
 ## 📫 Como me encontrar
 
-- **Email:** [raikkenncore@gmail.com](mailto:raikkenncore@gmail.com)
+- **Email:** [contato.sz.rk@gmail.com](mailto:contato.sz.rk@gmail.com)
 - **WhatsApp:** [+55 92 9267-8251](https://wa.me/559292678251)
-- **TikTok:** [@raikkencore](https://www.tiktok.com/@raikkencore)
 
 > ⚡ *"Apenas workano"*
